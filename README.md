@@ -4,7 +4,7 @@ basic rag/
 ├── load_pdf.py
 ├── store_qdrant.py
 ├── search_qdrant.py
-├── README.md        ← இது FILE
+├── README.md        
 ├── .env
 ├── rag_llm_mcp.pdf
 └── venv/
