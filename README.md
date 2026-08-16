@@ -6,5 +6,4 @@ basic rag/
 ├── search_qdrant.py
 ├── README.md        
 ├── .env
-├── rag_llm_mcp.pdf
 └── venv/
